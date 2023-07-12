@@ -1,1 +1,2 @@
-# GAN---generate-handwriting-images-
+# GAN - Generative Adversial Networks
+### This project involves training a Generative Adversarial Network (GAN) to generate realistic images of handwritten digits. The GAN consists of a generator and a discriminator. The generator creates fake images, while the discriminator tries to distinguish between real and fake images. Through an adversarial training process, the generator improves its ability to generate convincing images, while the discriminator becomes better at identifying fake images. The models are trained on the MNIST dataset, which contains images of handwritten digits. The project aims to generate high-quality fake images that closely resemble real handwritten digits.
